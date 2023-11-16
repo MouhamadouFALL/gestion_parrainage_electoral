@@ -1,0 +1,4 @@
+
+
+
+Dans cette version les programmes parcours les dossiers de chaque zone puis les traitent les fichiers par lot
